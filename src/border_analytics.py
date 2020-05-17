@@ -1,7 +1,6 @@
+from collections import namedtuple
 import csv
 import re
-from collections import namedtuple
-import itertools as it
 import datetime
 import math
 import argparse
@@ -11,6 +10,7 @@ parser.add_argument('-i', '--input', metavar='input_file', required=False, dest=
 parser.add_argument('-o', '--output', metavar='output_file', required=False, dest='output_file', action='store', default='./output/out_dummy.csv', help='Output csv file with results')
 parser.add_argument('-v', '--verbose', dest='verbose', action='store_true', help='Verbose mode')
 args = parser.parse_args()
+
 
 def checkKey(dict, key, val):
     if key not in dict:
