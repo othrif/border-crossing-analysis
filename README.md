@@ -19,7 +19,7 @@ The Bureau of Transportation Statistics regularly makes available data on the nu
 * You will only be able to submit through the link one time
 * Do NOT attach a file - we will not admit solutions which are attached files
 * Do NOT send your solution over an email - We are unable to accept coding challenges that way
-* For a limited time we have made available a <a href="http://insight-cc-submission.com/test-my-repo-link">website</a> that will allow you to simulate the environment in which we will test your code. 
+* For a limited time we have made available a <a href="http://insight-cc-submission.com/test-my-repo-link">website</a> that will allow you to simulate the environment in which we will test your code.
 
 ### Creating private repositories
 To avoid plagiarism and any wrongdoing, we request you to submit a private repository of your code. Both GitHub and Bitbucket offer free unlimited private repositories at no extra cost.
@@ -59,8 +59,8 @@ For the purposes of this challenge, you'll want to pay attention to the followin
 * `Value`: Number of crossings
 
 ## Expected Output
-Using the input file, you must write a program to 
-* Sum the total number of crossings (`Value`) of each type of vehicle or equipment, or passengers or pedestrians, that crossed the border that month, regardless of what port was used. 
+Using the input file, you must write a program to
+* Sum the total number of crossings (`Value`) of each type of vehicle or equipment, or passengers or pedestrians, that crossed the border that month, regardless of what port was used.
 * Calculate the running monthly average of total crossings, rounded to the nearest whole number, for that combination of `Border` and `Measure`, or means of crossing.
 
 Your program must write the requested output data to a file named `report.csv` in the top-most `output` directory of your repository.
@@ -78,7 +78,7 @@ US-Mexico Border,01/01/2019 12:00:00 AM,Pedestrians,56810,0
 
 ```
 
-The lines should be sorted in descending order by 
+The lines should be sorted in descending order by
 * `Date`
 * `Value` (or number of crossings)
 * `Measure`
