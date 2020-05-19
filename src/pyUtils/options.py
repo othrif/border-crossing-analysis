@@ -15,3 +15,29 @@ def getArgs():
     args = parser.parse_args()
 
     return args
+
+
+#---------------------------------------------------------------------
+# Make logger object
+#
+def getLog(name, level = 'INFO', debug=False):
+
+    import logging
+    import sys
+
+    f = logging.Formatter("%(name)s: %(levelname)s - %(message)s")
+    h = logging.StreamHandler(sys.stdout)
+    h.setFormatter(f)
+
+    log = logging.getLogger(name)
+    log.addHandler(h)
+
+    if debug:
+        log.setLevel(logging.DEBUG)
+    else:
+        if level == 'DEBUG':   log.setLevel(logging.DEBUG)
+        if level == 'INFO':    log.setLevel(logging.INFO)
+        if level == 'WARNING': log.setLevel(logging.WARNING)
+        if level == 'ERROR':   log.setLevel(logging.ERROR)
+
+    return log
