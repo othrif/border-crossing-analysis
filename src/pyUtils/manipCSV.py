@@ -8,7 +8,7 @@ from collections import namedtuple
 # Function to read CSV file and returns a map with the total number of crossings (`Value`)
 # of each type of vehicle or equipment, or passengers or pedestrians, that crossed the border that month
 #-------------------------------------------------------------------------------------------------------------------
-def readCSV(csvfile, verbose=False):
+def readCSV(csvfile, verbose=False,nmax=-1):
     print(f'Start reading {csvfile}...')
     out_value = {}
     with open(csvfile) as f:
@@ -20,7 +20,13 @@ def readCSV(csvfile, verbose=False):
             Row = namedtuple('Row',headings)
         except ValueError:
             print ("Unable to retrieve the namedtuple") # still need to handle this properly
-        for r in f_csv:
+        for count,r in enumerate(f_csv):
+            # Output the border crossing being processed
+            pyUtils.statusProc(count,'maniCSV')
+            if count>nmax and nmax!=-1:
+                return out_value
+            if len(r) != len(headings):
+                raise ValueError(f'Row {count+1} has {len(r)} entries, does not match the number expected of {len(headings)}.')
             row = Row(*r)
             # Find first date of the month
             current = datetime.datetime.strptime( row.Date, '%m/%d/%Y %I:%M:%S %p')
@@ -41,3 +47,16 @@ def writeCSV(csvfile, out_rows, verbose=False):
         f_csv.writerow(out_headers)
         f_csv.writerows(out_rows)
     print(f'Done with analysis, saved to {csvfile}.')
+
+
+#def statusProc(count,code):
+#    #log = pyUtils.getLog(code)
+#    passExp = False
+#    for i in range(9):
+#        exponent = pow(10, i)
+#        passExp |= (count <= exponent and (count % exponent) == 0)
+#    if passExp:
+#        #log.info('Read entry number = ' + str(count))
+#        print('Read entry number = ' + str(count))
+
+

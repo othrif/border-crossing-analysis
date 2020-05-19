@@ -6,7 +6,8 @@ def main():
     log = pyUtils.getLog('border_analytics')
 
     log.info('Starting the program...')
-    out_value = pyUtils.readCSV(args.input_file,args.verbose)
+    print(type(args.nmax), args.nmax)
+    out_value = pyUtils.readCSV(args.input_file,args.verbose,int(args.nmax))
     log.info('Starting the analysis...')
     out_rows = pyUtils.doAnalysis(out_value)
     log.info('Saving the output...')

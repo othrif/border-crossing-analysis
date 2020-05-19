@@ -11,6 +11,7 @@ def getArgs():
     parser.add_argument('-i', '--input', metavar='input_file', required=False, dest='input_file', action='store', default='./input/dummy.csv', help='Input csv file')
     parser.add_argument('-o', '--output', metavar='output_file', required=False, dest='output_file', action='store', default='./output/out_dummy.csv', help='Output csv file with results')
     parser.add_argument('-v', '--verbose', dest='verbose', action='store_true', help='Verbose mode')
+    parser.add_argument('-n', '--nevents', type = int, dest = 'nmax', default=-1,help="Maximum number of events to process")
 
     args = parser.parse_args()
 
@@ -41,3 +42,17 @@ def getLog(name, level = 'INFO', debug=False):
         if level == 'ERROR':   log.setLevel(logging.ERROR)
 
     return log
+
+
+#-------------------------------------------------------------------------
+# Pyramid output
+#-------------------------------------------------------------------------
+def statusProc(count,code):
+    #log = getLog(code)
+    passExp = False
+    for i in range(9):
+        exponent = pow(10, i)
+        passExp |= (count <= exponent and (count % exponent) == 0)
+    if passExp:
+        #log.info('Read entry number = ' + str(count))
+        print('Read entry number = ' + str(count))

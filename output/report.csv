@@ -1,0 +1,314 @@
+Border,Date,Measure,Value,Average
+US-Mexico Border,12/01/2019 12:00:00 AM,Personal Vehicle Passengers,12440171,10643776
+US-Mexico Border,12/01/2019 12:00:00 AM,Personal Vehicles,6379237,5773753
+US-Mexico Border,12/01/2019 12:00:00 AM,Pedestrians,4531122,3979497
+US-Canada Border,12/01/2019 12:00:00 AM,Personal Vehicle Passengers,3873280,4317456
+US-Canada Border,12/01/2019 12:00:00 AM,Personal Vehicles,1992476,2312170
+US-Mexico Border,12/01/2019 12:00:00 AM,Trucks,477111,511300
+US-Canada Border,12/01/2019 12:00:00 AM,Trucks,417733,458796
+US-Mexico Border,12/01/2019 12:00:00 AM,Truck Containers Full,353884,378923
+US-Canada Border,12/01/2019 12:00:00 AM,Truck Containers Full,328319,357598
+US-Mexico Border,12/01/2019 12:00:00 AM,Bus Passengers,195238,177041
+US-Canada Border,12/01/2019 12:00:00 AM,Rail Containers Full,166832,157158
+US-Mexico Border,12/01/2019 12:00:00 AM,Truck Containers Empty,129766,137769
+US-Canada Border,12/01/2019 12:00:00 AM,Truck Containers Empty,102803,114557
+US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,74776,159578
+US-Canada Border,12/01/2019 12:00:00 AM,Rail Containers Empty,60875,61575
+US-Mexico Border,12/01/2019 12:00:00 AM,Rail Containers Empty,49791,48920
+US-Mexico Border,12/01/2019 12:00:00 AM,Rail Containers Full,37506,38180
+US-Canada Border,12/01/2019 12:00:00 AM,Pedestrians,22377,52384
+US-Mexico Border,12/01/2019 12:00:00 AM,Buses,14647,11811
+US-Canada Border,12/01/2019 12:00:00 AM,Train Passengers,13718,26885
+US-Canada Border,12/01/2019 12:00:00 AM,Buses,3172,7162
+US-Canada Border,12/01/2019 12:00:00 AM,Trains,1774,1830
+US-Mexico Border,12/01/2019 12:00:00 AM,Trains,913,914
+US-Mexico Border,12/01/2019 12:00:00 AM,Train Passengers,707,798
+US-Mexico Border,11/01/2019 12:00:00 AM,Personal Vehicle Passengers,11330030,10557994
+US-Mexico Border,11/01/2019 12:00:00 AM,Personal Vehicles,6019934,5742980
+US-Mexico Border,11/01/2019 12:00:00 AM,Pedestrians,4179255,3954528
+US-Canada Border,11/01/2019 12:00:00 AM,Personal Vehicle Passengers,3550247,4413358
+US-Canada Border,11/01/2019 12:00:00 AM,Personal Vehicles,1929352,2360022
+US-Mexico Border,11/01/2019 12:00:00 AM,Trucks,518084,510452
+US-Canada Border,11/01/2019 12:00:00 AM,Trucks,455384,459222
+US-Mexico Border,11/01/2019 12:00:00 AM,Truck Containers Full,386071,378029
+US-Canada Border,11/01/2019 12:00:00 AM,Truck Containers Full,356469,357740
+US-Canada Border,11/01/2019 12:00:00 AM,Rail Containers Full,160397,156753
+US-Mexico Border,11/01/2019 12:00:00 AM,Bus Passengers,144019,181169
+US-Mexico Border,11/01/2019 12:00:00 AM,Truck Containers Empty,138857,137633
+US-Canada Border,11/01/2019 12:00:00 AM,Truck Containers Empty,112668,114794
+US-Canada Border,11/01/2019 12:00:00 AM,Bus Passengers,96580,167453
+US-Canada Border,11/01/2019 12:00:00 AM,Rail Containers Empty,60954,61653
+US-Mexico Border,11/01/2019 12:00:00 AM,Rail Containers Empty,50081,48775
+US-Mexico Border,11/01/2019 12:00:00 AM,Rail Containers Full,39639,37998
+US-Canada Border,11/01/2019 12:00:00 AM,Pedestrians,24574,55860
+US-Canada Border,11/01/2019 12:00:00 AM,Train Passengers,10827,28892
+US-Mexico Border,11/01/2019 12:00:00 AM,Buses,9916,12048
+US-Canada Border,11/01/2019 12:00:00 AM,Buses,4650,7476
+US-Canada Border,11/01/2019 12:00:00 AM,Trains,1783,1836
+US-Mexico Border,11/01/2019 12:00:00 AM,Trains,934,911
+US-Mexico Border,11/01/2019 12:00:00 AM,Train Passengers,789,799
+US-Mexico Border,10/01/2019 12:00:00 AM,Personal Vehicle Passengers,11435487,10432638
+US-Mexico Border,10/01/2019 12:00:00 AM,Personal Vehicles,6291416,5664632
+US-Mexico Border,10/01/2019 12:00:00 AM,Pedestrians,4141103,3927874
+US-Canada Border,10/01/2019 12:00:00 AM,Personal Vehicle Passengers,4050384,4465211
+US-Canada Border,10/01/2019 12:00:00 AM,Personal Vehicles,2223629,2379507
+US-Mexico Border,10/01/2019 12:00:00 AM,Trucks,574078,501363
+US-Canada Border,10/01/2019 12:00:00 AM,Trucks,501929,453121
+US-Mexico Border,10/01/2019 12:00:00 AM,Truck Containers Full,424521,371388
+US-Canada Border,10/01/2019 12:00:00 AM,Truck Containers Full,395638,352325
+US-Canada Border,10/01/2019 12:00:00 AM,Rail Containers Full,161254,156109
+US-Mexico Border,10/01/2019 12:00:00 AM,Truck Containers Empty,158305,134680
+US-Canada Border,10/01/2019 12:00:00 AM,Bus Passengers,146932,170385
+US-Mexico Border,10/01/2019 12:00:00 AM,Bus Passengers,145608,186249
+US-Canada Border,10/01/2019 12:00:00 AM,Truck Containers Empty,121031,113902
+US-Canada Border,10/01/2019 12:00:00 AM,Rail Containers Empty,61515,61672
+US-Mexico Border,10/01/2019 12:00:00 AM,Rail Containers Empty,53517,48097
+US-Canada Border,10/01/2019 12:00:00 AM,Pedestrians,46365,57217
+US-Mexico Border,10/01/2019 12:00:00 AM,Rail Containers Full,40674,37615
+US-Canada Border,10/01/2019 12:00:00 AM,Train Passengers,16483,30665
+US-Mexico Border,10/01/2019 12:00:00 AM,Buses,12248,12019
+US-Canada Border,10/01/2019 12:00:00 AM,Buses,6316,7642
+US-Canada Border,10/01/2019 12:00:00 AM,Trains,1937,1821
+US-Mexico Border,10/01/2019 12:00:00 AM,Trains,965,903
+US-Mexico Border,10/01/2019 12:00:00 AM,Train Passengers,810,797
+US-Mexico Border,09/01/2019 12:00:00 AM,Personal Vehicle Passengers,11190572,10306316
+US-Mexico Border,09/01/2019 12:00:00 AM,Personal Vehicles,6039555,5602145
+US-Canada Border,09/01/2019 12:00:00 AM,Personal Vehicle Passengers,4284826,4495275
+US-Mexico Border,09/01/2019 12:00:00 AM,Pedestrians,3983133,3918664
+US-Canada Border,09/01/2019 12:00:00 AM,Personal Vehicles,2314728,2390303
+US-Mexico Border,09/01/2019 12:00:00 AM,Trucks,514257,499214
+US-Canada Border,09/01/2019 12:00:00 AM,Trucks,482147,448283
+US-Mexico Border,09/01/2019 12:00:00 AM,Truck Containers Full,378751,370160
+US-Canada Border,09/01/2019 12:00:00 AM,Truck Containers Full,378650,347938
+US-Canada Border,09/01/2019 12:00:00 AM,Bus Passengers,171967,170121
+US-Canada Border,09/01/2019 12:00:00 AM,Rail Containers Full,160742,155337
+US-Mexico Border,09/01/2019 12:00:00 AM,Bus Passengers,148685,192510
+US-Mexico Border,09/01/2019 12:00:00 AM,Truck Containers Empty,142892,133311
+US-Canada Border,09/01/2019 12:00:00 AM,Truck Containers Empty,118166,113192
+US-Canada Border,09/01/2019 12:00:00 AM,Rail Containers Empty,64791,61152
+US-Canada Border,09/01/2019 12:00:00 AM,Pedestrians,58478,57007
+US-Mexico Border,09/01/2019 12:00:00 AM,Rail Containers Empty,50725,47659
+US-Mexico Border,09/01/2019 12:00:00 AM,Rail Containers Full,41532,36962
+US-Canada Border,09/01/2019 12:00:00 AM,Train Passengers,27167,31248
+US-Mexico Border,09/01/2019 12:00:00 AM,Buses,12262,11979
+US-Canada Border,09/01/2019 12:00:00 AM,Buses,7422,7678
+US-Canada Border,09/01/2019 12:00:00 AM,Trains,1862,1814
+US-Mexico Border,09/01/2019 12:00:00 AM,Trains,979,891
+US-Mexico Border,09/01/2019 12:00:00 AM,Train Passengers,266,886
+US-Mexico Border,08/01/2019 12:00:00 AM,Personal Vehicle Passengers,11537921,10059995
+US-Canada Border,08/01/2019 12:00:00 AM,Personal Vehicle Passengers,6501513,4094027
+US-Mexico Border,08/01/2019 12:00:00 AM,Personal Vehicles,6102329,5502108
+US-Mexico Border,08/01/2019 12:00:00 AM,Pedestrians,4125207,3877355
+US-Canada Border,08/01/2019 12:00:00 AM,Personal Vehicles,3025266,2263310
+US-Mexico Border,08/01/2019 12:00:00 AM,Trucks,549757,489105
+US-Canada Border,08/01/2019 12:00:00 AM,Trucks,485797,440781
+US-Mexico Border,08/01/2019 12:00:00 AM,Truck Containers Full,404725,363247
+US-Canada Border,08/01/2019 12:00:00 AM,Truck Containers Full,372308,343064
+US-Canada Border,08/01/2019 12:00:00 AM,Bus Passengers,251296,153886
+US-Mexico Border,08/01/2019 12:00:00 AM,Bus Passengers,229383,185135
+US-Canada Border,08/01/2019 12:00:00 AM,Rail Containers Full,165901,153224
+US-Mexico Border,08/01/2019 12:00:00 AM,Truck Containers Empty,152731,129427
+US-Canada Border,08/01/2019 12:00:00 AM,Truck Containers Empty,127516,110327
+US-Canada Border,08/01/2019 12:00:00 AM,Pedestrians,90021,50404
+US-Canada Border,08/01/2019 12:00:00 AM,Rail Containers Empty,69277,59527
+US-Mexico Border,08/01/2019 12:00:00 AM,Rail Containers Empty,54648,46261
+US-Canada Border,08/01/2019 12:00:00 AM,Train Passengers,44569,28584
+US-Mexico Border,08/01/2019 12:00:00 AM,Rail Containers Full,43840,35587
+US-Mexico Border,08/01/2019 12:00:00 AM,Buses,13061,11762
+US-Canada Border,08/01/2019 12:00:00 AM,Buses,11126,6989
+US-Canada Border,08/01/2019 12:00:00 AM,Trains,1960,1785
+US-Mexico Border,08/01/2019 12:00:00 AM,Trains,1053,858
+US-Mexico Border,08/01/2019 12:00:00 AM,Train Passengers,938,875
+US-Mexico Border,07/01/2019 12:00:00 AM,Personal Vehicle Passengers,11627413,9668140
+US-Canada Border,07/01/2019 12:00:00 AM,Personal Vehicle Passengers,6067261,3600719
+US-Mexico Border,07/01/2019 12:00:00 AM,Personal Vehicles,6019013,5372881
+US-Mexico Border,07/01/2019 12:00:00 AM,Pedestrians,4343673,3760776
+US-Canada Border,07/01/2019 12:00:00 AM,Personal Vehicles,2886702,2107462
+US-Mexico Border,07/01/2019 12:00:00 AM,Trucks,552492,473258
+US-Canada Border,07/01/2019 12:00:00 AM,Trucks,478767,431284
+US-Mexico Border,07/01/2019 12:00:00 AM,Truck Containers Full,401115,353780
+US-Canada Border,07/01/2019 12:00:00 AM,Truck Containers Full,368547,336693
+US-Mexico Border,07/01/2019 12:00:00 AM,Bus Passengers,247070,169651
+US-Canada Border,07/01/2019 12:00:00 AM,Bus Passengers,219504,137481
+US-Canada Border,07/01/2019 12:00:00 AM,Rail Containers Full,160538,151396
+US-Mexico Border,07/01/2019 12:00:00 AM,Truck Containers Empty,157156,122495
+US-Canada Border,07/01/2019 12:00:00 AM,Truck Containers Empty,120953,107670
+US-Canada Border,07/01/2019 12:00:00 AM,Pedestrians,87714,41076
+US-Canada Border,07/01/2019 12:00:00 AM,Rail Containers Empty,68925,57178
+US-Mexico Border,07/01/2019 12:00:00 AM,Rail Containers Empty,54178,44282
+US-Canada Border,07/01/2019 12:00:00 AM,Train Passengers,49054,23466
+US-Mexico Border,07/01/2019 12:00:00 AM,Rail Containers Full,42309,33906
+US-Mexico Border,07/01/2019 12:00:00 AM,Buses,13345,11367
+US-Canada Border,07/01/2019 12:00:00 AM,Buses,9552,6348
+US-Canada Border,07/01/2019 12:00:00 AM,Trains,1908,1754
+US-Mexico Border,07/01/2019 12:00:00 AM,Trains,1028,815
+US-Mexico Border,07/01/2019 12:00:00 AM,Train Passengers,871,876
+US-Mexico Border,06/01/2019 12:00:00 AM,Personal Vehicle Passengers,11590003,9027519
+US-Mexico Border,06/01/2019 12:00:00 AM,Personal Vehicles,6124800,5122241
+US-Canada Border,06/01/2019 12:00:00 AM,Personal Vehicle Passengers,5407844,2998343
+US-Mexico Border,06/01/2019 12:00:00 AM,Pedestrians,3931845,3703753
+US-Canada Border,06/01/2019 12:00:00 AM,Personal Vehicles,2832881,1865656
+US-Mexico Border,06/01/2019 12:00:00 AM,Trucks,533555,453159
+US-Canada Border,06/01/2019 12:00:00 AM,Trucks,485867,413089
+US-Mexico Border,06/01/2019 12:00:00 AM,Truck Containers Full,399640,338494
+US-Canada Border,06/01/2019 12:00:00 AM,Truck Containers Full,366753,326673
+US-Canada Border,06/01/2019 12:00:00 AM,Bus Passengers,202261,115888
+US-Mexico Border,06/01/2019 12:00:00 AM,Bus Passengers,176567,167345
+US-Canada Border,06/01/2019 12:00:00 AM,Rail Containers Full,153206,150792
+US-Mexico Border,06/01/2019 12:00:00 AM,Truck Containers Empty,139565,116805
+US-Canada Border,06/01/2019 12:00:00 AM,Truck Containers Empty,129434,100415
+US-Canada Border,06/01/2019 12:00:00 AM,Pedestrians,66714,32530
+US-Canada Border,06/01/2019 12:00:00 AM,Rail Containers Empty,62544,55389
+US-Mexico Border,06/01/2019 12:00:00 AM,Rail Containers Empty,49346,42594
+US-Mexico Border,06/01/2019 12:00:00 AM,Rail Containers Full,45091,30177
+US-Canada Border,06/01/2019 12:00:00 AM,Train Passengers,44094,16590
+US-Mexico Border,06/01/2019 12:00:00 AM,Buses,12979,10829
+US-Canada Border,06/01/2019 12:00:00 AM,Buses,8975,5472
+US-Canada Border,06/01/2019 12:00:00 AM,Trains,2162,1618
+US-Mexico Border,06/01/2019 12:00:00 AM,Trains,964,766
+US-Mexico Border,06/01/2019 12:00:00 AM,Train Passengers,851,884
+US-Mexico Border,05/01/2019 12:00:00 AM,Personal Vehicle Passengers,11161555,7960500
+US-Mexico Border,05/01/2019 12:00:00 AM,Personal Vehicles,6087007,4639858
+US-Canada Border,05/01/2019 12:00:00 AM,Personal Vehicle Passengers,4209007,2393011
+US-Mexico Border,05/01/2019 12:00:00 AM,Pedestrians,4144485,3483386
+US-Canada Border,05/01/2019 12:00:00 AM,Personal Vehicles,2301064,1647952
+US-Mexico Border,05/01/2019 12:00:00 AM,Trucks,576724,391377
+US-Canada Border,05/01/2019 12:00:00 AM,Trucks,507425,365921
+US-Mexico Border,05/01/2019 12:00:00 AM,Truck Containers Full,435491,289995
+US-Canada Border,05/01/2019 12:00:00 AM,Truck Containers Full,385497,297260
+US-Canada Border,05/01/2019 12:00:00 AM,Bus Passengers,190178,78742
+US-Mexico Border,05/01/2019 12:00:00 AM,Bus Passengers,172481,164777
+US-Canada Border,05/01/2019 12:00:00 AM,Rail Containers Full,159963,146207
+US-Mexico Border,05/01/2019 12:00:00 AM,Truck Containers Empty,147259,101578
+US-Canada Border,05/01/2019 12:00:00 AM,Truck Containers Empty,133736,83755
+US-Canada Border,05/01/2019 12:00:00 AM,Rail Containers Empty,61553,52306
+US-Mexico Border,05/01/2019 12:00:00 AM,Rail Containers Empty,52634,37574
+US-Canada Border,05/01/2019 12:00:00 AM,Pedestrians,50586,23501
+US-Mexico Border,05/01/2019 12:00:00 AM,Rail Containers Full,44885,22823
+US-Canada Border,05/01/2019 12:00:00 AM,Train Passengers,30038,9866
+US-Mexico Border,05/01/2019 12:00:00 AM,Buses,12562,9962
+US-Canada Border,05/01/2019 12:00:00 AM,Buses,8174,4121
+US-Canada Border,05/01/2019 12:00:00 AM,Trains,2090,1382
+US-Mexico Border,05/01/2019 12:00:00 AM,Trains,987,655
+US-Mexico Border,05/01/2019 12:00:00 AM,Train Passengers,958,847
+US-Mexico Border,04/01/2019 12:00:00 AM,Personal Vehicle Passengers,10553135,5367865
+US-Mexico Border,04/01/2019 12:00:00 AM,Personal Vehicles,5686170,3593546
+US-Mexico Border,04/01/2019 12:00:00 AM,Pedestrians,4256803,2709969
+US-Canada Border,04/01/2019 12:00:00 AM,Personal Vehicle Passengers,3760645,1025377
+US-Canada Border,04/01/2019 12:00:00 AM,Personal Vehicles,2053135,1242768
+US-Mexico Border,04/01/2019 12:00:00 AM,Trucks,524215,258538
+US-Canada Border,04/01/2019 12:00:00 AM,Trucks,480477,251365
+US-Mexico Border,04/01/2019 12:00:00 AM,Truck Containers Full,396298,183691
+US-Canada Border,04/01/2019 12:00:00 AM,Truck Containers Full,369321,225199
+US-Mexico Border,04/01/2019 12:00:00 AM,Bus Passengers,195416,134138
+US-Canada Border,04/01/2019 12:00:00 AM,Rail Containers Full,157840,134573
+US-Mexico Border,04/01/2019 12:00:00 AM,Truck Containers Empty,134214,68941
+US-Canada Border,04/01/2019 12:00:00 AM,Truck Containers Empty,122028,45481
+US-Canada Border,04/01/2019 12:00:00 AM,Bus Passengers,120438,37046
+US-Canada Border,04/01/2019 12:00:00 AM,Rail Containers Empty,60767,43845
+US-Mexico Border,04/01/2019 12:00:00 AM,Rail Containers Empty,50897,24250
+US-Mexico Border,04/01/2019 12:00:00 AM,Rail Containers Full,42180,3466
+US-Canada Border,04/01/2019 12:00:00 AM,Pedestrians,31204,15798
+US-Canada Border,04/01/2019 12:00:00 AM,Train Passengers,13103,6628
+US-Mexico Border,04/01/2019 12:00:00 AM,Buses,12822,7102
+US-Canada Border,04/01/2019 12:00:00 AM,Buses,5050,3191
+US-Canada Border,04/01/2019 12:00:00 AM,Trains,1968,795
+US-Mexico Border,04/01/2019 12:00:00 AM,Trains,934,375
+US-Mexico Border,04/01/2019 12:00:00 AM,Train Passengers,857,837
+US-Mexico Border,03/02/2020 12:00:00 AM,Pedestrians,97428,4015392
+US-Mexico Border,03/01/2020 12:00:00 AM,Personal Vehicle Passengers,8123004,10809349
+US-Mexico Border,03/01/2020 12:00:00 AM,Personal Vehicles,4866359,5873512
+US-Mexico Border,03/01/2020 12:00:00 AM,Pedestrians,2705973,4015392
+US-Canada Border,03/01/2020 12:00:00 AM,Personal Vehicle Passengers,1573915,4068046
+US-Canada Border,03/01/2020 12:00:00 AM,Personal Vehicles,926710,2183200
+US-Mexico Border,03/01/2020 12:00:00 AM,Trucks,558941,511941
+US-Canada Border,03/01/2020 12:00:00 AM,Trucks,461858,453700
+US-Mexico Border,03/01/2020 12:00:00 AM,Truck Containers Full,370040,372485
+US-Canada Border,03/01/2020 12:00:00 AM,Truck Containers Full,349876,350999
+US-Mexico Border,03/01/2020 12:00:00 AM,Truck Containers Empty,183481,143981
+US-Canada Border,03/01/2020 12:00:00 AM,Rail Containers Full,161513,157075
+US-Mexico Border,03/01/2020 12:00:00 AM,Bus Passengers,122823,176975
+US-Canada Border,03/01/2020 12:00:00 AM,Truck Containers Empty,117941,114722
+US-Canada Border,03/01/2020 12:00:00 AM,Rail Containers Empty,68024,60766
+US-Mexico Border,03/01/2020 12:00:00 AM,Rail Containers Empty,53030,48823
+US-Mexico Border,03/01/2020 12:00:00 AM,Rail Containers Full,42760,38118
+US-Canada Border,03/01/2020 12:00:00 AM,Bus Passengers,25640,137000
+US-Mexico Border,03/01/2020 12:00:00 AM,Buses,9565,12167
+US-Canada Border,03/01/2020 12:00:00 AM,Pedestrians,8229,43484
+US-Canada Border,03/01/2020 12:00:00 AM,Train Passengers,6345,22856
+US-Canada Border,03/01/2020 12:00:00 AM,Trains,1959,1827
+US-Canada Border,03/01/2020 12:00:00 AM,Buses,1707,6245
+US-Mexico Border,03/01/2020 12:00:00 AM,Trains,1025,913
+US-Mexico Border,03/01/2020 12:00:00 AM,Train Passengers,812,784
+US-Mexico Border,03/01/2019 12:00:00 AM,Personal Vehicle Passengers,5367865,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Personal Vehicles,3593546,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Pedestrians,2709969,0
+US-Canada Border,03/01/2019 12:00:00 AM,Personal Vehicles,1242768,0
+US-Canada Border,03/01/2019 12:00:00 AM,Personal Vehicle Passengers,1025377,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Trucks,258538,0
+US-Canada Border,03/01/2019 12:00:00 AM,Trucks,251365,0
+US-Canada Border,03/01/2019 12:00:00 AM,Truck Containers Full,225199,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Truck Containers Full,183691,0
+US-Canada Border,03/01/2019 12:00:00 AM,Rail Containers Full,134573,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Bus Passengers,134138,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Truck Containers Empty,68941,0
+US-Canada Border,03/01/2019 12:00:00 AM,Truck Containers Empty,45481,0
+US-Canada Border,03/01/2019 12:00:00 AM,Rail Containers Empty,43845,0
+US-Canada Border,03/01/2019 12:00:00 AM,Bus Passengers,37046,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Rail Containers Empty,24250,0
+US-Canada Border,03/01/2019 12:00:00 AM,Pedestrians,15798,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Buses,7102,0
+US-Canada Border,03/01/2019 12:00:00 AM,Train Passengers,6628,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Rail Containers Full,3466,0
+US-Canada Border,03/01/2019 12:00:00 AM,Buses,3191,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Train Passengers,837,0
+US-Canada Border,03/01/2019 12:00:00 AM,Trains,795,0
+US-Mexico Border,03/01/2019 12:00:00 AM,Trains,375,0
+US-Mexico Border,02/01/2020 12:00:00 AM,Personal Vehicle Passengers,10263348,10858985
+US-Mexico Border,02/01/2020 12:00:00 AM,Personal Vehicles,5896683,5871405
+US-Mexico Border,02/01/2020 12:00:00 AM,Pedestrians,3739003,4040518
+US-Canada Border,02/01/2020 12:00:00 AM,Personal Vehicle Passengers,3100696,4155986
+US-Canada Border,02/01/2020 12:00:00 AM,Personal Vehicles,1709486,2226265
+US-Mexico Border,02/01/2020 12:00:00 AM,Trucks,520176,511193
+US-Canada Border,02/01/2020 12:00:00 AM,Trucks,440166,454930
+US-Mexico Border,02/01/2020 12:00:00 AM,Truck Containers Full,350322,374500
+US-Canada Border,02/01/2020 12:00:00 AM,Truck Containers Full,327331,353150
+US-Mexico Border,02/01/2020 12:00:00 AM,Truck Containers Empty,172526,141386
+US-Canada Border,02/01/2020 12:00:00 AM,Rail Containers Full,145938,158087
+US-Mexico Border,02/01/2020 12:00:00 AM,Bus Passengers,142210,180135
+US-Canada Border,02/01/2020 12:00:00 AM,Truck Containers Empty,118991,114334
+US-Canada Border,02/01/2020 12:00:00 AM,Bus Passengers,72939,142824
+US-Canada Border,02/01/2020 12:00:00 AM,Rail Containers Empty,54736,61314
+US-Mexico Border,02/01/2020 12:00:00 AM,Rail Containers Empty,47126,48977
+US-Mexico Border,02/01/2020 12:00:00 AM,Rail Containers Full,40346,37915
+US-Canada Border,02/01/2020 12:00:00 AM,Pedestrians,17046,45888
+US-Mexico Border,02/01/2020 12:00:00 AM,Buses,11910,12190
+US-Canada Border,02/01/2020 12:00:00 AM,Train Passengers,8015,24205
+US-Canada Border,02/01/2020 12:00:00 AM,Buses,3850,6463
+US-Canada Border,02/01/2020 12:00:00 AM,Trains,1785,1831
+US-Mexico Border,02/01/2020 12:00:00 AM,Trains,912,913
+US-Mexico Border,02/01/2020 12:00:00 AM,Train Passengers,788,784
+US-Mexico Border,01/01/2020 12:00:00 AM,Personal Vehicle Passengers,11214682,10823416
+US-Mexico Border,01/01/2020 12:00:00 AM,Personal Vehicles,6242448,5834301
+US-Mexico Border,01/01/2020 12:00:00 AM,Pedestrians,4099096,4034660
+US-Canada Border,01/01/2020 12:00:00 AM,Personal Vehicle Passengers,2985461,4273039
+US-Canada Border,01/01/2020 12:00:00 AM,Personal Vehicles,1686912,2280201
+US-Mexico Border,01/01/2020 12:00:00 AM,Trucks,544303,507882
+US-Canada Border,01/01/2020 12:00:00 AM,Trucks,457339,454690
+US-Mexico Border,01/01/2020 12:00:00 AM,Truck Containers Full,355310,376419
+US-Canada Border,01/01/2020 12:00:00 AM,Truck Containers Full,337945,354671
+US-Mexico Border,01/01/2020 12:00:00 AM,Bus Passengers,192876,178861
+US-Mexico Border,01/01/2020 12:00:00 AM,Truck Containers Empty,185552,136969
+US-Canada Border,01/01/2020 12:00:00 AM,Rail Containers Full,157707,158125
+US-Canada Border,01/01/2020 12:00:00 AM,Truck Containers Empty,123851,113382
+US-Canada Border,01/01/2020 12:00:00 AM,Bus Passengers,60079,151098
+US-Canada Border,01/01/2020 12:00:00 AM,Rail Containers Empty,59403,61505
+US-Mexico Border,01/01/2020 12:00:00 AM,Rail Containers Empty,48672,49007
+US-Mexico Border,01/01/2020 12:00:00 AM,Rail Containers Full,35937,38113
+US-Mexico Border,01/01/2020 12:00:00 AM,Buses,13142,12095
+US-Canada Border,01/01/2020 12:00:00 AM,Pedestrians,10927,49384
+US-Canada Border,01/01/2020 12:00:00 AM,Train Passengers,10573,25569
+US-Canada Border,01/01/2020 12:00:00 AM,Buses,3457,6763
+US-Canada Border,01/01/2020 12:00:00 AM,Trains,1898,1824
+US-Mexico Border,01/01/2020 12:00:00 AM,Trains,910,914
+US-Mexico Border,01/01/2020 12:00:00 AM,Train Passengers,736,789

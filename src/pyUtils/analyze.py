@@ -1,6 +1,9 @@
 import pyUtils
 import math
 
+
+#log = pyUtils.getLog('analyze')
+
 #-------------------------------------------------------------------------
 # Common command line option parser
 #-------------------------------------------------------------------------
@@ -11,7 +14,7 @@ def doAnalysis(out_value, verbose=False):
     average = {}
     sum = {}
     out_rows = []
-    for key, value in out_value.items():
+    for count, (key, value) in enumerate(out_value.items()):
         if verbose: print(f'Before {key}:')
         sum[(key[_Border],key[_Date],key[_FirstDate])] = 0
         earliestDate = key[_FirstDate]
